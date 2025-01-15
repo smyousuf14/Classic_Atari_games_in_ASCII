@@ -1,0 +1,14 @@
+Y:\Software_DEV_projects\PingPongTerminal\pingPongT\bin\Debug\net9.0\pingPongT.exe
+Y:\Software_DEV_projects\PingPongTerminal\pingPongT\bin\Debug\net9.0\pingPongT.deps.json
+Y:\Software_DEV_projects\PingPongTerminal\pingPongT\bin\Debug\net9.0\pingPongT.runtimeconfig.json
+Y:\Software_DEV_projects\PingPongTerminal\pingPongT\bin\Debug\net9.0\pingPongT.dll
+Y:\Software_DEV_projects\PingPongTerminal\pingPongT\bin\Debug\net9.0\pingPongT.pdb
+Y:\Software_DEV_projects\PingPongTerminal\pingPongT\obj\Debug\net9.0\pingPongT.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Software_DEV_projects\PingPongTerminal\pingPongT\obj\Debug\net9.0\pingPongT.AssemblyInfoInputs.cache
+Y:\Software_DEV_projects\PingPongTerminal\pingPongT\obj\Debug\net9.0\pingPongT.AssemblyInfo.cs
+Y:\Software_DEV_projects\PingPongTerminal\pingPongT\obj\Debug\net9.0\pingPongT.csproj.CoreCompileInputs.cache
+Y:\Software_DEV_projects\PingPongTerminal\pingPongT\obj\Debug\net9.0\pingPongT.dll
+Y:\Software_DEV_projects\PingPongTerminal\pingPongT\obj\Debug\net9.0\refint\pingPongT.dll
+Y:\Software_DEV_projects\PingPongTerminal\pingPongT\obj\Debug\net9.0\pingPongT.pdb
+Y:\Software_DEV_projects\PingPongTerminal\pingPongT\obj\Debug\net9.0\pingPongT.genruntimeconfig.cache
+Y:\Software_DEV_projects\PingPongTerminal\pingPongT\obj\Debug\net9.0\ref\pingPongT.dll

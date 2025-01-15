@@ -1,0 +1,14 @@
+Y:\Software_DEV_projects\SnakeTerminal\snakeT\bin\Debug\net9.0\snakeT.exe
+Y:\Software_DEV_projects\SnakeTerminal\snakeT\bin\Debug\net9.0\snakeT.deps.json
+Y:\Software_DEV_projects\SnakeTerminal\snakeT\bin\Debug\net9.0\snakeT.runtimeconfig.json
+Y:\Software_DEV_projects\SnakeTerminal\snakeT\bin\Debug\net9.0\snakeT.dll
+Y:\Software_DEV_projects\SnakeTerminal\snakeT\bin\Debug\net9.0\snakeT.pdb
+Y:\Software_DEV_projects\SnakeTerminal\snakeT\obj\Debug\net9.0\snakeT.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Software_DEV_projects\SnakeTerminal\snakeT\obj\Debug\net9.0\snakeT.AssemblyInfoInputs.cache
+Y:\Software_DEV_projects\SnakeTerminal\snakeT\obj\Debug\net9.0\snakeT.AssemblyInfo.cs
+Y:\Software_DEV_projects\SnakeTerminal\snakeT\obj\Debug\net9.0\snakeT.csproj.CoreCompileInputs.cache
+Y:\Software_DEV_projects\SnakeTerminal\snakeT\obj\Debug\net9.0\snakeT.dll
+Y:\Software_DEV_projects\SnakeTerminal\snakeT\obj\Debug\net9.0\refint\snakeT.dll
+Y:\Software_DEV_projects\SnakeTerminal\snakeT\obj\Debug\net9.0\snakeT.pdb
+Y:\Software_DEV_projects\SnakeTerminal\snakeT\obj\Debug\net9.0\snakeT.genruntimeconfig.cache
+Y:\Software_DEV_projects\SnakeTerminal\snakeT\obj\Debug\net9.0\ref\snakeT.dll

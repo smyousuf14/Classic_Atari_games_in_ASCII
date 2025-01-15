@@ -1,0 +1,14 @@
+Y:\Software_DEV_projects\Classic_Atari_games_in_ASCII\Astroids\asteroids\bin\Debug\net9.0\asteroids.exe
+Y:\Software_DEV_projects\Classic_Atari_games_in_ASCII\Astroids\asteroids\bin\Debug\net9.0\asteroids.deps.json
+Y:\Software_DEV_projects\Classic_Atari_games_in_ASCII\Astroids\asteroids\bin\Debug\net9.0\asteroids.runtimeconfig.json
+Y:\Software_DEV_projects\Classic_Atari_games_in_ASCII\Astroids\asteroids\bin\Debug\net9.0\asteroids.dll
+Y:\Software_DEV_projects\Classic_Atari_games_in_ASCII\Astroids\asteroids\bin\Debug\net9.0\asteroids.pdb
+Y:\Software_DEV_projects\Classic_Atari_games_in_ASCII\Astroids\asteroids\obj\Debug\net9.0\asteroids.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Software_DEV_projects\Classic_Atari_games_in_ASCII\Astroids\asteroids\obj\Debug\net9.0\asteroids.AssemblyInfoInputs.cache
+Y:\Software_DEV_projects\Classic_Atari_games_in_ASCII\Astroids\asteroids\obj\Debug\net9.0\asteroids.AssemblyInfo.cs
+Y:\Software_DEV_projects\Classic_Atari_games_in_ASCII\Astroids\asteroids\obj\Debug\net9.0\asteroids.csproj.CoreCompileInputs.cache
+Y:\Software_DEV_projects\Classic_Atari_games_in_ASCII\Astroids\asteroids\obj\Debug\net9.0\asteroids.dll
+Y:\Software_DEV_projects\Classic_Atari_games_in_ASCII\Astroids\asteroids\obj\Debug\net9.0\refint\asteroids.dll
+Y:\Software_DEV_projects\Classic_Atari_games_in_ASCII\Astroids\asteroids\obj\Debug\net9.0\asteroids.pdb
+Y:\Software_DEV_projects\Classic_Atari_games_in_ASCII\Astroids\asteroids\obj\Debug\net9.0\asteroids.genruntimeconfig.cache
+Y:\Software_DEV_projects\Classic_Atari_games_in_ASCII\Astroids\asteroids\obj\Debug\net9.0\ref\asteroids.dll
