@@ -1,5 +1,5 @@
 # Classic_Atari_games_in_ASCII
-Classic_Atari_games_in_ASCII written in C#
+Classic Atari games in ASCII written in C#.
 
 # Classic Atari Games in ASCII
 
